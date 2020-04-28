@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">eCom</string>
+    <string name="greeting_text">Welcome to Paragon.U</string>
 </resources>
