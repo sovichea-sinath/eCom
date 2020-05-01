@@ -6,4 +6,10 @@
 
     <color name="bg_blue">#2b348f</color>
     <color name="white">#fff</color>
+    
+    <color name="app_color">#005d86</color>
+    <color name="app_background">#024466</color>
+    <color name="light_blue">#00bdd6</color>
+    <color name="light_red">#ee534f</color>
+    
 </resources>

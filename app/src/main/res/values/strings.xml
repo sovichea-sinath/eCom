@@ -1,4 +1,29 @@
 <resources>
     <string name="app_name">eCom</string>
     <string name="greeting_text">Welcome to Paragon.U</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">ABA Mobile</string>
+    <string name="accounts">Account</string>
+    <string name="transfers">Transfers</string>
+    <string name="payments">Payments</string>
+    <string name="deposit">Deposit</string>
+    <string name="cash_to_atm">Cash to ATM</string>
+    <string name="vitual_card">Virtual Card</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="loans">Loans</string>
+    <string name="aba_locator">ABA Locator</string>
+
+    <string name="quick_transfer">Quick Transfer</string>
+    <string name="quick_transfer_description">Create your template here to make transfer quicker</string>
+
+    <string name="quick_payment">Quck Payment</string>
+    <string name="quick_payment_description">Payig your bill with templates is faster</string>
+
+    <!-- QR Scanner -->
+    <string name="qr_scanner_title">ABA Scan QR</string>
+    <string name="qr_scanner_subtitle">Scan QR</string>
+    <string name="qr_scanner_instruction">Align frame with QR code.</string>
+    <string name="qr_pay_manually">Pay Manually</string>
+
 </resources>
