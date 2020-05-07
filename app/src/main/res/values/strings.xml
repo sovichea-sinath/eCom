@@ -2,6 +2,19 @@
     <string name="app_name">eCom</string>
     <string name="greeting_text">Welcome to Paragon.U</string>
 
+    <!-- Main Activity -->
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="notifications">Notifications</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="share">Share</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="recents">Recents</string>
+    <string name="contacts">Contacts</string>
+    <string name="voicemail">Voicemail</string>
+
     <!-- Dashboard -->
     <string name="dashboard_title">ABA Mobile</string>
     <string name="accounts">Account</string>

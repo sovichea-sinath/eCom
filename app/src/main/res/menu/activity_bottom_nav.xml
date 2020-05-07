@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_favorites"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorites" />
+
+    <item
+        android:id="@+id/mnu_recents"
+        android:icon="@drawable/ic_recent"
+        android:title="@string/recents" />
+
+    <item
+        android:id="@+id/mnu_contacts"
+        android:icon="@drawable/ic_contact"
+        android:title="@string/contacts" />
+
+    <item
+        android:id="@+id/mnu_voicemail"
+        android:icon="@drawable/ic_voicemail"
+        android:title="@string/voicemail" />
+
+</menu>
